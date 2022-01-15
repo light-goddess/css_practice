@@ -3,11 +3,28 @@
 }*/
 
 p {
-    color:forestgreen
-}
-.a {
-    color:#cc0000
+    color:forestgreen;
+     font-family: "Lobster", sans-serif;
+     font-size: 22px;
 }
 * {
-    background-color:blanchedalmond
+    text-align: center;
+}
+.a {
+    color:#ff0000;
+}
+* {
+    background-color:blanchedalmond;
+}
+b {
+    font-weight: bold;
+    color:darkgoldenrod;
+}
+#c {
+    font-weight: bold;
+    color:darkgoldenrod;
+    text-align: right;
+}
+div {
+    font-size: 22px;
 }
